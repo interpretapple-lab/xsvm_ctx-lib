@@ -1,0 +1,675 @@
+,Unnamed: 0,lesion_id,image_id,dx,dx_type,age,sex,localization
+0,767,HAM_0004453,ISIC_0031825,bkl,confocal,65.0,female,head
+1,768,HAM_0004453,ISIC_0030677,bkl,confocal,65.0,female,head
+2,769,HAM_0005743,ISIC_0025038,bkl,confocal,60.0,female,head
+3,770,HAM_0000999,ISIC_0029927,bkl,confocal,70.0,female,head
+4,771,HAM_0000999,ISIC_0026567,bkl,confocal,70.0,female,head
+5,772,HAM_0005415,ISIC_0029102,bkl,confocal,80.0,male,head
+6,773,HAM_0005415,ISIC_0027154,bkl,confocal,80.0,male,head
+7,774,HAM_0003996,ISIC_0030383,bkl,confocal,80.0,female,head
+8,775,HAM_0003996,ISIC_0025465,bkl,confocal,80.0,female,head
+9,776,HAM_0000710,ISIC_0024489,bkl,confocal,75.0,female,head
+10,777,HAM_0000710,ISIC_0026276,bkl,confocal,75.0,female,head
+11,778,HAM_0007337,ISIC_0026912,bkl,confocal,85.0,female,head
+12,779,HAM_0007500,ISIC_0027435,bkl,confocal,70.0,female,head
+13,780,HAM_0007500,ISIC_0028180,bkl,confocal,70.0,female,head
+14,781,HAM_0000696,ISIC_0026277,bkl,confocal,75.0,male,head
+15,782,HAM_0005967,ISIC_0032395,bkl,confocal,65.0,female,head
+16,783,HAM_0005967,ISIC_0032031,bkl,confocal,65.0,female,head
+17,784,HAM_0003398,ISIC_0031888,bkl,confocal,85.0,female,head
+18,785,HAM_0000083,ISIC_0028622,bkl,confocal,60.0,female,head
+19,786,HAM_0000083,ISIC_0031872,bkl,confocal,60.0,female,head
+20,787,HAM_0002042,ISIC_0028294,bkl,confocal,75.0,female,head
+21,788,HAM_0002042,ISIC_0028662,bkl,confocal,75.0,female,head
+22,789,HAM_0002042,ISIC_0031349,bkl,confocal,75.0,female,head
+23,790,HAM_0002042,ISIC_0026263,bkl,confocal,75.0,female,head
+24,791,HAM_0003574,ISIC_0024877,bkl,confocal,50.0,male,head
+25,792,HAM_0003574,ISIC_0030835,bkl,confocal,50.0,male,head
+26,793,HAM_0006346,ISIC_0026280,bkl,confocal,50.0,male,head
+27,794,HAM_0006346,ISIC_0027811,bkl,confocal,50.0,male,head
+28,795,HAM_0005632,ISIC_0029232,bkl,confocal,85.0,female,head
+29,796,HAM_0005632,ISIC_0025470,bkl,confocal,85.0,female,head
+30,797,HAM_0007315,ISIC_0026249,bkl,confocal,75.0,male,head
+31,798,HAM_0007315,ISIC_0031218,bkl,confocal,75.0,male,head
+32,799,HAM_0007355,ISIC_0024705,bkl,confocal,45.0,female,head
+33,800,HAM_0007355,ISIC_0026803,bkl,confocal,45.0,female,head
+34,801,HAM_0002903,ISIC_0027737,bkl,confocal,35.0,female,head
+35,802,HAM_0002903,ISIC_0024774,bkl,confocal,35.0,female,head
+36,803,HAM_0004224,ISIC_0026248,bkl,confocal,80.0,male,head
+37,804,HAM_0004224,ISIC_0027194,bkl,confocal,80.0,male,head
+38,805,HAM_0003789,ISIC_0026016,bkl,confocal,55.0,female,head
+39,806,HAM_0003789,ISIC_0029505,bkl,confocal,55.0,female,head
+40,807,HAM_0000835,ISIC_0025378,bkl,confocal,55.0,female,head
+41,808,HAM_0000835,ISIC_0030394,bkl,confocal,55.0,female,head
+42,809,HAM_0005896,ISIC_0027735,bkl,confocal,50.0,female,head
+43,810,HAM_0005896,ISIC_0024814,bkl,confocal,50.0,female,head
+44,811,HAM_0002683,ISIC_0031677,bkl,confocal,75.0,male,head
+45,812,HAM_0000524,ISIC_0026069,bkl,confocal,65.0,female,head
+46,813,HAM_0000524,ISIC_0026524,bkl,confocal,65.0,female,head
+47,814,HAM_0004905,ISIC_0027162,bkl,confocal,70.0,male,head
+48,815,HAM_0005610,ISIC_0027608,bkl,confocal,65.0,female,head
+49,816,HAM_0005610,ISIC_0025312,bkl,confocal,65.0,female,head
+50,817,HAM_0003789,ISIC_0031277,bkl,confocal,55.0,female,head
+51,818,HAM_0000835,ISIC_0027270,bkl,confocal,55.0,female,head
+52,819,HAM_0003789,ISIC_0031853,bkl,confocal,55.0,female,head
+53,820,HAM_0000835,ISIC_0031329,bkl,confocal,55.0,female,head
+54,821,HAM_0007590,ISIC_0031528,bkl,confocal,40.0,male,unknown
+55,822,HAM_0007590,ISIC_0028615,bkl,confocal,40.0,male,unknown
+56,823,HAM_0003514,ISIC_0030369,bkl,confocal,70.0,male,head
+57,824,HAM_0004912,ISIC_0025753,bkl,confocal,70.0,male,head
+58,825,HAM_0004912,ISIC_0031600,bkl,confocal,70.0,male,head
+59,826,HAM_0004632,ISIC_0032159,bkl,confocal,70.0,male,head
+60,827,HAM_0004632,ISIC_0024382,bkl,confocal,70.0,male,head
+61,828,HAM_0001642,ISIC_0028490,bkl,confocal,65.0,male,head
+62,829,HAM_0006755,ISIC_0025339,bkl,confocal,65.0,male,head
+63,830,HAM_0005126,ISIC_0029070,bkl,confocal,65.0,male,head
+64,831,HAM_0005126,ISIC_0028822,bkl,confocal,65.0,male,head
+65,832,HAM_0003030,ISIC_0028876,bkl,consensus,75.0,female,head
+66,833,HAM_0003030,ISIC_0029527,bkl,consensus,75.0,female,head
+67,834,HAM_0006064,ISIC_0032111,bkl,consensus,75.0,male,back
+68,835,HAM_0006064,ISIC_0031132,bkl,consensus,75.0,male,back
+69,836,HAM_0001781,ISIC_0031987,bkl,consensus,30.0,female,back
+70,837,HAM_0001781,ISIC_0028623,bkl,consensus,30.0,female,back
+71,838,HAM_0001781,ISIC_0025515,bkl,consensus,30.0,female,back
+72,839,HAM_0001781,ISIC_0029823,bkl,consensus,30.0,female,back
+73,840,HAM_0000985,ISIC_0026631,bkl,consensus,75.0,male,head
+74,841,HAM_0000985,ISIC_0024490,bkl,consensus,75.0,male,head
+75,842,HAM_0001529,ISIC_0025103,bkl,consensus,70.0,female,head
+76,843,HAM_0001529,ISIC_0025710,bkl,consensus,70.0,female,head
+77,844,HAM_0005404,ISIC_0028094,bkl,consensus,70.0,male,head
+78,845,HAM_0005404,ISIC_0029455,bkl,consensus,70.0,male,head
+79,846,HAM_0001620,ISIC_0025466,bkl,consensus,70.0,male,head
+80,847,HAM_0006652,ISIC_0030123,bkl,consensus,65.0,female,torso
+81,848,HAM_0006652,ISIC_0031945,bkl,consensus,65.0,female,torso
+82,849,HAM_0005324,ISIC_0029931,bkl,consensus,60.0,male,lower limbs
+83,850,HAM_0004004,ISIC_0024782,bkl,consensus,65.0,female,torso
+84,851,HAM_0004004,ISIC_0029872,bkl,consensus,65.0,female,torso
+85,852,HAM_0007043,ISIC_0029135,bkl,consensus,75.0,male,head
+86,853,HAM_0007043,ISIC_0029947,bkl,consensus,75.0,male,head
+87,854,HAM_0003187,ISIC_0028264,bkl,consensus,60.0,male,head
+88,855,HAM_0003187,ISIC_0025526,bkl,consensus,60.0,male,head
+89,856,HAM_0003317,ISIC_0024435,bkl,consensus,55.0,male,head
+90,857,HAM_0003317,ISIC_0026590,bkl,consensus,55.0,male,head
+91,858,HAM_0006099,ISIC_0026311,bkl,consensus,55.0,female,head
+92,859,HAM_0006099,ISIC_0029270,bkl,consensus,55.0,female,head
+93,860,HAM_0001053,ISIC_0030998,bkl,consensus,55.0,female,torso
+94,861,HAM_0005580,ISIC_0029235,bkl,consensus,80.0,male,head
+95,862,HAM_0005278,ISIC_0027826,bkl,consensus,75.0,female,head
+96,863,HAM_0003920,ISIC_0028992,bkl,consensus,55.0,male,head
+97,864,HAM_0003920,ISIC_0026351,bkl,consensus,55.0,male,head
+98,865,HAM_0006186,ISIC_0029320,bkl,consensus,0.0,male,lower limbs
+99,866,HAM_0006186,ISIC_0029427,bkl,consensus,0.0,male,lower limbs
+100,867,HAM_0003789,ISIC_0029464,bkl,confocal,55.0,female,head
+101,868,HAM_0000835,ISIC_0026530,bkl,confocal,55.0,female,head
+102,869,HAM_0003789,ISIC_0024915,bkl,confocal,55.0,female,head
+103,870,HAM_0000835,ISIC_0024409,bkl,confocal,55.0,female,head
+104,871,HAM_0003010,ISIC_0029924,bkl,consensus,55.0,female,head
+105,872,HAM_0006770,ISIC_0028309,bkl,consensus,70.0,female,back
+106,873,HAM_0006770,ISIC_0027905,bkl,consensus,70.0,female,back
+107,874,HAM_0003881,ISIC_0029061,bkl,consensus,70.0,female,head
+108,875,HAM_0003881,ISIC_0031893,bkl,consensus,70.0,female,head
+109,876,HAM_0001011,ISIC_0027202,bkl,consensus,55.0,male,head
+110,877,HAM_0001011,ISIC_0032498,bkl,consensus,55.0,male,head
+111,878,HAM_0002757,ISIC_0024909,bkl,consensus,85.0,female,head
+112,879,HAM_0002757,ISIC_0028258,bkl,consensus,85.0,female,head
+113,880,HAM_0007381,ISIC_0027083,bkl,consensus,85.0,female,head
+114,881,HAM_0007381,ISIC_0029778,bkl,consensus,85.0,female,head
+115,882,HAM_0001310,ISIC_0027820,bkl,consensus,50.0,male,head
+116,883,HAM_0007090,ISIC_0029555,bkl,consensus,75.0,female,upper limbs
+117,884,HAM_0001678,ISIC_0027831,bkl,consensus,60.0,male,head
+118,885,HAM_0002984,ISIC_0024602,bkl,consensus,75.0,female,head
+119,886,HAM_0006988,ISIC_0024943,bkl,consensus,75.0,female,head
+120,887,HAM_0002821,ISIC_0028479,bkl,consensus,75.0,female,head
+121,888,HAM_0000106,ISIC_0024770,bkl,consensus,50.0,male,head
+122,889,HAM_0002096,ISIC_0028209,bkl,consensus,50.0,male,head
+123,890,HAM_0002096,ISIC_0029518,bkl,consensus,50.0,male,head
+124,891,HAM_0004556,ISIC_0028449,bkl,consensus,65.0,female,head
+125,892,HAM_0004556,ISIC_0028123,bkl,consensus,65.0,female,head
+126,893,HAM_0002527,ISIC_0026717,bkl,consensus,70.0,male,head
+127,894,HAM_0003559,ISIC_0027463,bkl,consensus,75.0,male,head
+128,895,HAM_0003559,ISIC_0025810,bkl,consensus,75.0,male,head
+129,896,HAM_0004768,ISIC_0027559,bkl,consensus,35.0,female,head
+130,897,HAM_0004768,ISIC_0024408,bkl,consensus,35.0,female,head
+131,898,HAM_0001982,ISIC_0030173,bkl,consensus,45.0,male,torso
+132,899,HAM_0001982,ISIC_0029012,bkl,consensus,45.0,male,torso
+133,900,HAM_0006009,ISIC_0026174,bkl,consensus,65.0,male,head
+134,901,HAM_0006009,ISIC_0027279,bkl,consensus,65.0,male,head
+135,902,HAM_0004543,ISIC_0032170,bkl,consensus,0.0,female,back
+136,903,HAM_0002462,ISIC_0024498,bkl,consensus,70.0,male,head
+137,904,HAM_0002462,ISIC_0025005,bkl,consensus,70.0,male,head
+138,905,HAM_0005845,ISIC_0025851,bkl,consensus,80.0,female,head
+139,906,HAM_0001991,ISIC_0028347,bkl,consensus,80.0,male,upper limbs
+140,907,HAM_0005847,ISIC_0033460,bkl,consensus,85.0,male,head
+141,908,HAM_0006438,ISIC_0033722,bkl,consensus,50.0,female,torso
+142,909,HAM_0000754,ISIC_0034315,bkl,consensus,50.0,male,back
+143,910,HAM_0000754,ISIC_0032967,bkl,consensus,50.0,male,back
+144,911,HAM_0006673,ISIC_0033199,bkl,consensus,60.0,female,head
+145,912,HAM_0006673,ISIC_0032719,bkl,consensus,60.0,female,head
+146,913,HAM_0003787,ISIC_0030630,bkl,consensus,70.0,male,torso
+147,914,HAM_0003218,ISIC_0033305,bkl,consensus,75.0,male,back
+148,915,HAM_0005903,ISIC_0032179,bkl,consensus,65.0,male,upper limbs
+149,916,HAM_0006277,ISIC_0031428,bkl,consensus,55.0,male,head
+150,917,HAM_0005463,ISIC_0032315,bkl,consensus,45.0,male,back
+151,918,HAM_0005463,ISIC_0028411,bkl,consensus,45.0,male,back
+152,919,HAM_0000208,ISIC_0032681,bkl,consensus,70.0,male,head
+153,920,HAM_0000208,ISIC_0033509,bkl,consensus,70.0,male,head
+154,921,HAM_0000208,ISIC_0032694,bkl,consensus,70.0,male,head
+155,922,HAM_0005442,ISIC_0034197,bkl,consensus,70.0,male,head
+156,923,HAM_0005442,ISIC_0034057,bkl,consensus,70.0,male,head
+157,924,HAM_0004142,ISIC_0033260,bkl,consensus,80.0,male,torso
+158,925,HAM_0004142,ISIC_0032643,bkl,consensus,80.0,male,torso
+159,926,HAM_0004142,ISIC_0033732,bkl,consensus,80.0,male,torso
+160,927,HAM_0006003,ISIC_0032827,bkl,consensus,85.0,female,lower limbs
+161,928,HAM_0006003,ISIC_0033022,bkl,consensus,85.0,female,lower limbs
+162,929,HAM_0004788,ISIC_0032835,bkl,consensus,85.0,male,torso
+163,930,HAM_0004788,ISIC_0033480,bkl,consensus,85.0,male,torso
+164,931,HAM_0004113,ISIC_0034165,bkl,consensus,55.0,female,lower limbs
+165,932,HAM_0004113,ISIC_0033185,bkl,consensus,55.0,female,lower limbs
+166,933,HAM_0004258,ISIC_0033783,bkl,consensus,85.0,male,torso
+167,934,HAM_0004258,ISIC_0033693,bkl,consensus,85.0,male,torso
+168,935,HAM_0006026,ISIC_0032804,bkl,consensus,85.0,male,back
+169,936,HAM_0006026,ISIC_0033924,bkl,consensus,85.0,male,back
+170,937,HAM_0006026,ISIC_0033531,bkl,consensus,85.0,male,back
+171,938,HAM_0001772,ISIC_0032636,bkl,consensus,85.0,male,back
+172,939,HAM_0001772,ISIC_0033270,bkl,consensus,85.0,male,back
+173,940,HAM_0005749,ISIC_0033246,bkl,consensus,85.0,male,back
+174,941,HAM_0005749,ISIC_0032843,bkl,consensus,85.0,male,back
+175,942,HAM_0000080,ISIC_0033528,bkl,consensus,70.0,male,lower limbs
+176,943,HAM_0000080,ISIC_0033865,bkl,consensus,70.0,male,lower limbs
+177,944,HAM_0006528,ISIC_0034296,bkl,consensus,70.0,female,back
+178,945,HAM_0006528,ISIC_0032763,bkl,consensus,70.0,female,back
+179,946,HAM_0006528,ISIC_0034291,bkl,consensus,70.0,female,back
+180,947,HAM_0003728,ISIC_0034167,bkl,consensus,70.0,male,back
+181,948,HAM_0003728,ISIC_0033949,bkl,consensus,70.0,male,back
+182,949,HAM_0000571,ISIC_0032773,bkl,consensus,70.0,male,back
+183,950,HAM_0000571,ISIC_0033156,bkl,consensus,70.0,male,back
+184,951,HAM_0004245,ISIC_0033701,bkl,consensus,70.0,male,back
+185,952,HAM_0004246,ISIC_0033854,bkl,consensus,70.0,male,back
+186,953,HAM_0004245,ISIC_0033884,bkl,consensus,70.0,male,back
+187,954,HAM_0000309,ISIC_0034142,bkl,consensus,70.0,male,back
+188,955,HAM_0000332,ISIC_0033784,bkl,consensus,80.0,female,upper limbs
+189,956,HAM_0000332,ISIC_0033307,bkl,consensus,80.0,female,upper limbs
+190,957,HAM_0006148,ISIC_0033987,bkl,consensus,80.0,female,back
+191,958,HAM_0005898,ISIC_0033553,bkl,consensus,80.0,female,back
+192,959,HAM_0005898,ISIC_0033401,bkl,consensus,80.0,female,back
+193,960,HAM_0002792,ISIC_0033169,bkl,consensus,80.0,female,back
+194,961,HAM_0006157,ISIC_0033855,bkl,consensus,80.0,female,back
+195,962,HAM_0007427,ISIC_0033660,bkl,consensus,60.0,female,back
+196,963,HAM_0007427,ISIC_0034221,bkl,consensus,60.0,female,back
+197,964,HAM_0007427,ISIC_0033945,bkl,consensus,60.0,female,back
+198,965,HAM_0007427,ISIC_0033491,bkl,consensus,60.0,female,back
+199,966,HAM_0007427,ISIC_0034280,bkl,consensus,60.0,female,back
+200,967,HAM_0006238,ISIC_0034151,bkl,consensus,60.0,male,unknown
+201,968,HAM_0001186,ISIC_0033391,bkl,consensus,,unknown,unknown
+202,969,HAM_0002660,ISIC_0033750,bkl,consensus,,unknown,unknown
+203,970,HAM_0000372,ISIC_0033685,bkl,consensus,,unknown,unknown
+204,971,HAM_0000948,ISIC_0033631,bkl,consensus,,unknown,unknown
+205,972,HAM_0000983,ISIC_0033490,bkl,consensus,,unknown,unknown
+206,973,HAM_0007281,ISIC_0034283,bkl,consensus,,unknown,unknown
+207,974,HAM_0001561,ISIC_0032740,bkl,consensus,,unknown,unknown
+208,975,HAM_0000825,ISIC_0034186,bkl,consensus,,unknown,unknown
+209,976,HAM_0001487,ISIC_0031601,bkl,consensus,60.0,male,head
+210,977,HAM_0006074,ISIC_0034252,bkl,consensus,,unknown,unknown
+211,978,HAM_0006074,ISIC_0033829,bkl,consensus,,unknown,unknown
+212,979,HAM_0005779,ISIC_0026790,bkl,consensus,55.0,male,back
+213,980,HAM_0007233,ISIC_0029113,bkl,consensus,55.0,male,torso
+214,981,HAM_0004232,ISIC_0030323,bkl,consensus,55.0,male,torso
+215,982,HAM_0003393,ISIC_0032113,bkl,consensus,45.0,female,head
+216,983,HAM_0000090,ISIC_0032330,bkl,consensus,65.0,female,torso
+217,984,HAM_0002242,ISIC_0026511,bkl,consensus,45.0,male,torso
+218,985,HAM_0002371,ISIC_0032271,bkl,consensus,50.0,male,torso
+219,986,HAM_0004322,ISIC_0027142,bkl,consensus,55.0,male,torso
+220,987,HAM_0000382,ISIC_0031897,bkl,consensus,55.0,male,torso
+221,988,HAM_0005932,ISIC_0027747,bkl,consensus,55.0,male,back
+222,989,HAM_0000613,ISIC_0031253,bkl,consensus,60.0,male,upper limbs
+223,990,HAM_0005101,ISIC_0024643,bkl,consensus,35.0,male,torso
+224,991,HAM_0002355,ISIC_0029202,bkl,consensus,35.0,male,torso
+225,992,HAM_0006912,ISIC_0026205,bkl,consensus,35.0,male,back
+226,993,HAM_0005626,ISIC_0031619,bkl,consensus,65.0,male,head
+227,994,HAM_0004466,ISIC_0031396,bkl,consensus,45.0,male,torso
+228,995,HAM_0000734,ISIC_0031196,bkl,consensus,45.0,male,torso
+229,996,HAM_0005834,ISIC_0032249,bkl,consensus,45.0,male,lower limbs
+230,997,HAM_0005136,ISIC_0024337,bkl,consensus,50.0,female,lower limbs
+231,998,HAM_0004308,ISIC_0027370,bkl,consensus,50.0,female,back
+232,999,HAM_0004078,ISIC_0026566,bkl,consensus,70.0,female,torso
+233,1000,HAM_0004309,ISIC_0028681,bkl,consensus,70.0,female,torso
+234,1001,HAM_0003668,ISIC_0024383,bkl,consensus,70.0,female,torso
+235,1002,HAM_0000716,ISIC_0029801,bkl,consensus,70.0,female,torso
+236,1003,HAM_0002536,ISIC_0032124,bkl,consensus,70.0,female,torso
+237,1004,HAM_0007151,ISIC_0029793,bkl,consensus,70.0,female,torso
+238,1005,HAM_0007395,ISIC_0031133,bkl,consensus,70.0,female,torso
+239,1006,HAM_0003011,ISIC_0030959,bkl,consensus,70.0,female,torso
+240,1007,HAM_0001997,ISIC_0029251,bkl,consensus,70.0,female,torso
+241,1008,HAM_0002190,ISIC_0026046,bkl,consensus,70.0,female,torso
+242,1009,HAM_0001429,ISIC_0027875,bkl,consensus,80.0,male,torso
+243,1010,HAM_0005616,ISIC_0029107,bkl,consensus,80.0,male,head
+244,1011,HAM_0006601,ISIC_0031511,bkl,consensus,80.0,male,torso
+245,1012,HAM_0001735,ISIC_0028587,bkl,consensus,80.0,male,back
+246,1013,HAM_0000685,ISIC_0026291,bkl,consensus,80.0,male,torso
+247,1014,HAM_0003926,ISIC_0026422,bkl,consensus,80.0,male,head
+248,1015,HAM_0000441,ISIC_0030316,bkl,consensus,80.0,male,head
+249,1016,HAM_0006533,ISIC_0028497,bkl,consensus,80.0,male,head
+250,1017,HAM_0003260,ISIC_0029345,bkl,consensus,80.0,male,back
+251,1018,HAM_0003287,ISIC_0026846,bkl,consensus,80.0,male,upper limbs
+252,1019,HAM_0005993,ISIC_0026441,bkl,consensus,80.0,male,lower limbs
+253,1020,HAM_0005291,ISIC_0026907,bkl,consensus,55.0,male,back
+254,1021,HAM_0003973,ISIC_0026867,bkl,consensus,55.0,male,torso
+255,1022,HAM_0001167,ISIC_0028448,bkl,consensus,55.0,male,torso
+256,1023,HAM_0003726,ISIC_0028503,bkl,consensus,70.0,male,torso
+257,1024,HAM_0000865,ISIC_0028826,bkl,consensus,70.0,male,torso
+258,1025,HAM_0002209,ISIC_0031226,bkl,consensus,70.0,male,torso
+259,1026,HAM_0006876,ISIC_0032460,bkl,consensus,70.0,male,back
+260,1027,HAM_0000121,ISIC_0027025,bkl,consensus,70.0,male,torso
+261,1028,HAM_0001589,ISIC_0030067,bkl,consensus,70.0,male,head
+262,1029,HAM_0006243,ISIC_0031436,bkl,consensus,75.0,male,upper limbs
+263,1030,HAM_0003049,ISIC_0027041,bkl,consensus,75.0,male,upper limbs
+264,1031,HAM_0000659,ISIC_0030088,bkl,consensus,75.0,male,torso
+265,1032,HAM_0003426,ISIC_0026959,bkl,consensus,75.0,male,lower limbs
+266,1033,HAM_0003859,ISIC_0027167,bkl,consensus,75.0,male,back
+267,1034,HAM_0005722,ISIC_0028525,bkl,consensus,75.0,male,head
+268,1035,HAM_0002034,ISIC_0027954,bkl,consensus,5.0,male,torso
+269,1036,HAM_0007393,ISIC_0024850,bkl,consensus,55.0,female,head
+270,1037,HAM_0001430,ISIC_0031088,bkl,consensus,45.0,female,torso
+271,1038,HAM_0005443,ISIC_0025758,bkl,consensus,45.0,female,torso
+272,1039,HAM_0002161,ISIC_0025392,bkl,consensus,45.0,female,torso
+273,1040,HAM_0003165,ISIC_0025856,bkl,consensus,55.0,male,torso
+274,1041,HAM_0002043,ISIC_0030160,bkl,consensus,80.0,male,lower limbs
+275,1042,HAM_0002962,ISIC_0028331,bkl,consensus,80.0,male,back
+276,1043,HAM_0000089,ISIC_0026783,bkl,consensus,75.0,male,head
+277,1044,HAM_0000643,ISIC_0029731,bkl,consensus,75.0,male,head
+278,1045,HAM_0005751,ISIC_0028386,bkl,consensus,50.0,female,upper limbs
+279,1046,HAM_0001402,ISIC_0031558,bkl,consensus,50.0,female,upper limbs
+280,1047,HAM_0000453,ISIC_0025330,bkl,consensus,50.0,female,lower limbs
+281,1048,HAM_0005338,ISIC_0031577,bkl,consensus,45.0,female,upper limbs
+282,1049,HAM_0001443,ISIC_0025804,bkl,consensus,50.0,male,lower limbs
+283,1050,HAM_0002280,ISIC_0027275,bkl,consensus,50.0,male,torso
+284,1051,HAM_0001062,ISIC_0027710,bkl,consensus,50.0,male,torso
+285,1052,HAM_0002677,ISIC_0031024,bkl,consensus,50.0,male,torso
+286,1053,HAM_0003982,ISIC_0030056,bkl,consensus,50.0,male,torso
+287,1054,HAM_0003129,ISIC_0029195,bkl,consensus,75.0,female,torso
+288,1055,HAM_0006772,ISIC_0026135,bkl,consensus,75.0,female,torso
+289,1056,HAM_0003757,ISIC_0029233,bkl,consensus,75.0,female,torso
+290,1057,HAM_0001399,ISIC_0030207,bkl,consensus,75.0,female,torso
+291,1058,HAM_0007027,ISIC_0026967,bkl,consensus,75.0,female,back
+292,1059,HAM_0006124,ISIC_0025131,bkl,consensus,75.0,female,back
+293,1060,HAM_0002456,ISIC_0031223,bkl,consensus,75.0,female,back
+294,1061,HAM_0000069,ISIC_0030226,bkl,consensus,35.0,male,torso
+295,1062,HAM_0002912,ISIC_0028958,bkl,consensus,60.0,female,torso
+296,1063,HAM_0004713,ISIC_0031125,bkl,consensus,60.0,female,torso
+297,1064,HAM_0007219,ISIC_0029227,bkl,consensus,70.0,male,upper limbs
+298,1065,HAM_0001423,ISIC_0025454,bkl,consensus,70.0,male,back
+299,1066,HAM_0004289,ISIC_0025879,bkl,consensus,45.0,female,torso
+300,1067,HAM_0001990,ISIC_0027612,bkl,consensus,55.0,male,torso
+301,1068,HAM_0002503,ISIC_0029676,bkl,consensus,75.0,male,back
+302,1069,HAM_0002419,ISIC_0032359,bkl,consensus,75.0,female,torso
+303,1070,HAM_0003691,ISIC_0027428,bkl,consensus,75.0,female,back
+304,1071,HAM_0002965,ISIC_0026446,bkl,consensus,75.0,female,lower limbs
+305,1072,HAM_0000974,ISIC_0026262,bkl,consensus,60.0,female,lower limbs
+306,1073,HAM_0003979,ISIC_0026416,bkl,consensus,45.0,female,torso
+307,1074,HAM_0000452,ISIC_0029048,bkl,consensus,45.0,female,torso
+308,1075,HAM_0000607,ISIC_0025431,bkl,consensus,45.0,female,torso
+309,1076,HAM_0003582,ISIC_0027332,bkl,consensus,70.0,female,torso
+310,1077,HAM_0005096,ISIC_0029741,bkl,consensus,70.0,female,torso
+311,1078,HAM_0001752,ISIC_0028925,bkl,consensus,70.0,female,lower limbs
+312,1079,HAM_0002005,ISIC_0026556,bkl,consensus,70.0,female,back
+313,1080,HAM_0000105,ISIC_0031362,bkl,consensus,70.0,female,torso
+314,1081,HAM_0003715,ISIC_0026941,bkl,consensus,70.0,female,torso
+315,1082,HAM_0002742,ISIC_0025654,bkl,consensus,70.0,female,back
+316,1083,HAM_0000792,ISIC_0025387,bkl,consensus,70.0,female,back
+317,1084,HAM_0007604,ISIC_0027027,bkl,consensus,70.0,female,torso
+318,1085,HAM_0000955,ISIC_0029036,bkl,consensus,70.0,female,torso
+319,1086,HAM_0002366,ISIC_0029880,bkl,consensus,70.0,female,back
+320,1087,HAM_0000215,ISIC_0025484,bkl,consensus,70.0,female,lower limbs
+321,1088,HAM_0005262,ISIC_0030488,bkl,consensus,70.0,female,torso
+322,1089,HAM_0000296,ISIC_0031761,bkl,consensus,35.0,female,torso
+323,1090,HAM_0000465,ISIC_0030583,bkl,consensus,35.0,female,torso
+324,1091,HAM_0007000,ISIC_0026042,bkl,consensus,75.0,male,torso
+325,1092,HAM_0001838,ISIC_0028797,bkl,consensus,75.0,male,torso
+326,1093,HAM_0005874,ISIC_0027326,bkl,consensus,75.0,male,torso
+327,1094,HAM_0001223,ISIC_0030789,bkl,consensus,75.0,male,torso
+328,1150,HAM_0005362,ISIC_0029824,df,consensus,50.0,male,lower limbs
+329,1151,HAM_0005362,ISIC_0025622,df,consensus,50.0,male,lower limbs
+330,1152,HAM_0007418,ISIC_0031372,df,consensus,50.0,male,lower limbs
+331,1153,HAM_0007418,ISIC_0026313,df,consensus,50.0,male,lower limbs
+332,1154,HAM_0005663,ISIC_0026417,df,consensus,30.0,male,lower limbs
+333,1155,HAM_0005663,ISIC_0028735,df,consensus,30.0,male,lower limbs
+334,1156,HAM_0000827,ISIC_0031443,df,consensus,60.0,male,upper limbs
+335,1157,HAM_0000827,ISIC_0025223,df,consensus,60.0,male,upper limbs
+336,1158,HAM_0006542,ISIC_0030015,df,consensus,65.0,male,upper limbs
+337,1159,HAM_0002450,ISIC_0024318,df,consensus,65.0,female,lower limbs
+338,1160,HAM_0002450,ISIC_0024396,df,consensus,65.0,female,lower limbs
+339,1161,HAM_0006188,ISIC_0024330,df,consensus,40.0,male,lower limbs
+340,1162,HAM_0006188,ISIC_0027188,df,consensus,40.0,male,lower limbs
+341,1163,HAM_0003487,ISIC_0031123,df,consensus,40.0,male,lower limbs
+342,1164,HAM_0003487,ISIC_0024845,df,consensus,40.0,male,lower limbs
+343,1165,HAM_0005584,ISIC_0032613,df,consensus,25.0,female,lower limbs
+344,1166,HAM_0005584,ISIC_0033256,df,consensus,25.0,female,lower limbs
+345,1167,HAM_0006371,ISIC_0034135,df,consensus,35.0,female,lower limbs
+346,1168,HAM_0006371,ISIC_0033626,df,consensus,35.0,female,lower limbs
+347,1169,HAM_0006371,ISIC_0033780,df,consensus,35.0,female,lower limbs
+348,1170,HAM_0007396,ISIC_0033891,df,consensus,35.0,female,lower limbs
+349,1171,HAM_0007396,ISIC_0033554,df,consensus,35.0,female,lower limbs
+350,1172,HAM_0007396,ISIC_0033810,df,consensus,35.0,female,lower limbs
+351,1173,HAM_0000349,ISIC_0033695,df,consensus,45.0,female,lower limbs
+352,1174,HAM_0000349,ISIC_0033005,df,consensus,45.0,female,lower limbs
+353,1175,HAM_0003597,ISIC_0033422,df,consensus,45.0,male,lower limbs
+354,1176,HAM_0003597,ISIC_0027488,df,consensus,45.0,male,lower limbs
+355,1177,HAM_0003081,ISIC_0033808,df,consensus,45.0,male,torso
+356,1178,HAM_0003081,ISIC_0033847,df,consensus,45.0,male,torso
+357,1179,HAM_0003081,ISIC_0033860,df,consensus,45.0,male,torso
+358,1180,HAM_0002960,ISIC_0024994,df,consensus,40.0,female,lower limbs
+360,1182,HAM_0000902,ISIC_0027745,df,consensus,50.0,female,lower limbs
+361,1183,HAM_0005330,ISIC_0024553,df,consensus,50.0,female,upper limbs
+362,1184,HAM_0005983,ISIC_0025594,df,consensus,65.0,female,lower limbs
+363,1185,HAM_0004648,ISIC_0025911,df,consensus,65.0,female,lower limbs
+364,1186,HAM_0006816,ISIC_0026254,df,consensus,45.0,male,lower limbs
+365,1187,HAM_0006787,ISIC_0026471,df,consensus,60.0,male,lower limbs
+366,1188,HAM_0002463,ISIC_0029052,df,consensus,75.0,female,lower limbs
+367,1189,HAM_0005529,ISIC_0025980,df,consensus,55.0,female,lower limbs
+368,1190,HAM_0004090,ISIC_0031271,df,consensus,45.0,female,lower limbs
+369,1191,HAM_0002129,ISIC_0025903,df,consensus,60.0,male,torso
+370,1192,HAM_0004496,ISIC_0028651,df,consensus,55.0,female,lower limbs
+371,1193,HAM_0005359,ISIC_0030665,df,consensus,55.0,female,lower limbs
+372,1194,HAM_0000024,ISIC_0027141,df,consensus,45.0,female,lower limbs
+373,1195,HAM_0003023,ISIC_0031257,df,consensus,55.0,female,upper limbs
+374,1196,HAM_0005112,ISIC_0024386,df,consensus,40.0,female,lower limbs
+375,1197,HAM_0004065,ISIC_0026629,df,consensus,65.0,female,lower limbs
+376,1198,HAM_0002045,ISIC_0029973,df,consensus,60.0,male,lower limbs
+377,1199,HAM_0002848,ISIC_0027598,df,consensus,60.0,female,lower limbs
+378,1200,HAM_0003348,ISIC_0031799,df,consensus,70.0,male,lower limbs
+379,1201,HAM_0000049,ISIC_0029130,df,consensus,70.0,male,lower limbs
+380,1202,HAM_0002871,ISIC_0027044,df,consensus,35.0,female,lower limbs
+381,1203,HAM_0005918,ISIC_0029177,df,consensus,35.0,female,lower limbs
+382,1204,HAM_0000757,ISIC_0025314,df,consensus,35.0,female,lower limbs
+383,1205,HAM_0007569,ISIC_0025373,df,consensus,35.0,female,lower limbs
+384,1206,HAM_0001841,ISIC_0025771,df,consensus,35.0,female,lower limbs
+385,1207,HAM_0006707,ISIC_0030870,df,consensus,45.0,female,lower limbs
+386,1208,HAM_0002153,ISIC_0029297,df,consensus,40.0,female,lower limbs
+387,1209,HAM_0007129,ISIC_0027216,df,consensus,60.0,female,lower limbs
+388,2387,HAM_0004820,ISIC_0030722,vasc,consensus,45.0,female,torso
+389,2388,HAM_0002610,ISIC_0026876,vasc,consensus,0.0,female,torso
+390,2389,HAM_0002610,ISIC_0030606,vasc,consensus,0.0,female,torso
+391,2390,HAM_0001566,ISIC_0024747,vasc,consensus,70.0,female,head
+392,2391,HAM_0001566,ISIC_0031346,vasc,consensus,70.0,female,head
+393,2392,HAM_0006748,ISIC_0027210,vasc,consensus,30.0,female,lower limbs
+394,2393,HAM_0006748,ISIC_0025924,vasc,consensus,30.0,female,lower limbs
+395,2394,HAM_0007020,ISIC_0031719,vasc,consensus,75.0,female,upper limbs
+396,2395,HAM_0007020,ISIC_0030070,vasc,consensus,75.0,female,upper limbs
+397,2396,HAM_0000502,ISIC_0031093,vasc,consensus,70.0,male,back
+398,2397,HAM_0000502,ISIC_0029608,vasc,consensus,70.0,male,back
+399,2398,HAM_0004542,ISIC_0024402,vasc,consensus,0.0,female,back
+400,2399,HAM_0004542,ISIC_0027256,vasc,consensus,0.0,female,back
+401,2400,HAM_0006852,ISIC_0032715,vasc,consensus,45.0,female,torso
+402,2401,HAM_0006852,ISIC_0033991,vasc,consensus,45.0,female,torso
+403,2402,HAM_0001249,ISIC_0033817,vasc,consensus,85.0,male,back
+404,2403,HAM_0002498,ISIC_0032839,vasc,consensus,70.0,male,back
+405,2404,HAM_0002498,ISIC_0032932,vasc,consensus,70.0,male,back
+406,2405,HAM_0003480,ISIC_0031996,vasc,consensus,70.0,female,lower limbs
+407,2406,HAM_0003480,ISIC_0032890,vasc,consensus,70.0,female,lower limbs
+408,2407,HAM_0003480,ISIC_0033844,vasc,consensus,70.0,female,lower limbs
+409,2408,HAM_0006406,ISIC_0026336,vasc,consensus,50.0,male,torso
+410,2409,HAM_0002390,ISIC_0029439,vasc,consensus,50.0,male,torso
+411,2410,HAM_0004549,ISIC_0031201,vasc,consensus,45.0,male,torso
+412,2411,HAM_0007372,ISIC_0030283,vasc,consensus,55.0,male,torso
+413,2412,HAM_0000934,ISIC_0031706,vasc,consensus,60.0,male,torso
+414,2413,HAM_0003873,ISIC_0024475,vasc,consensus,35.0,male,head
+415,2414,HAM_0004097,ISIC_0025677,vasc,consensus,50.0,female,torso
+416,2415,HAM_0006501,ISIC_0025873,vasc,consensus,50.0,female,lower limbs
+417,2416,HAM_0000460,ISIC_0025197,vasc,consensus,50.0,female,torso
+418,2417,HAM_0001238,ISIC_0032409,vasc,consensus,80.0,male,torso
+419,2418,HAM_0007150,ISIC_0028680,vasc,consensus,45.0,female,torso
+420,2419,HAM_0000845,ISIC_0025244,vasc,consensus,45.0,female,torso
+421,2420,HAM_0005938,ISIC_0025596,vasc,consensus,45.0,female,torso
+422,2421,HAM_0002788,ISIC_0027563,vasc,consensus,70.0,male,lower limbs
+423,2422,HAM_0006796,ISIC_0025707,vasc,consensus,35.0,male,torso
+424,2423,HAM_0002650,ISIC_0029742,vasc,consensus,5.0,male,back
+425,2424,HAM_0002177,ISIC_0025612,vasc,consensus,45.0,female,head
+426,2425,HAM_0007113,ISIC_0027522,vasc,consensus,55.0,male,torso
+427,2426,HAM_0005215,ISIC_0028406,vasc,consensus,80.0,male,torso
+428,2427,HAM_0005475,ISIC_0025628,vasc,consensus,80.0,male,torso
+429,2428,HAM_0005011,ISIC_0026393,vasc,consensus,80.0,male,torso
+430,2429,HAM_0006193,ISIC_0029877,vasc,consensus,80.0,male,lower limbs
+431,2430,HAM_0007532,ISIC_0024662,vasc,consensus,75.0,male,torso
+432,2431,HAM_0005885,ISIC_0031215,vasc,consensus,75.0,male,torso
+433,2432,HAM_0007118,ISIC_0027856,vasc,consensus,45.0,female,torso
+434,2433,HAM_0004653,ISIC_0028431,vasc,consensus,50.0,male,torso
+435,2434,HAM_0001122,ISIC_0030104,vasc,consensus,65.0,female,torso
+436,2435,HAM_0006291,ISIC_0026490,vasc,consensus,65.0,female,torso
+437,2436,HAM_0004943,ISIC_0027790,vasc,consensus,50.0,female,head
+438,2437,HAM_0004409,ISIC_0027888,vasc,consensus,40.0,male,torso
+439,2438,HAM_0001780,ISIC_0024370,vasc,consensus,55.0,male,torso
+440,2439,HAM_0005376,ISIC_0025606,vasc,consensus,55.0,male,head
+441,2440,HAM_0001372,ISIC_0031103,vasc,consensus,35.0,female,torso
+442,2441,HAM_0000109,ISIC_0031065,vasc,consensus,35.0,female,torso
+443,2442,HAM_0004769,ISIC_0025250,vasc,consensus,30.0,male,head
+444,2443,HAM_0005245,ISIC_0024375,vasc,consensus,70.0,female,torso
+445,2444,HAM_0000286,ISIC_0029099,vasc,consensus,70.0,female,torso
+446,2445,HAM_0001091,ISIC_0031955,vasc,consensus,30.0,female,lower limbs
+447,2446,HAM_0002639,ISIC_0025249,vasc,consensus,30.0,female,lower limbs
+448,2447,HAM_0006138,ISIC_0026713,vasc,consensus,35.0,female,upper limbs
+449,2448,HAM_0006447,ISIC_0031276,vasc,consensus,75.0,male,torso
+450,2449,HAM_0005427,ISIC_0028885,vasc,consensus,75.0,male,back
+451,2450,HAM_0007568,ISIC_0024867,vasc,consensus,75.0,male,torso
+452,2451,HAM_0006280,ISIC_0027937,vasc,consensus,70.0,male,torso
+453,2452,HAM_0002787,ISIC_0025425,vasc,consensus,50.0,male,torso
+454,2453,HAM_0001038,ISIC_0024706,vasc,consensus,50.0,male,torso
+455,2454,HAM_0001860,ISIC_0027665,vasc,consensus,50.0,male,torso
+456,2455,HAM_0001537,ISIC_0026467,vasc,consensus,55.0,male,lower limbs
+457,2456,HAM_0004862,ISIC_0032057,vasc,consensus,55.0,female,torso
+458,2457,HAM_0000415,ISIC_0025680,vasc,consensus,55.0,female,torso
+459,2458,HAM_0004413,ISIC_0026068,vasc,consensus,55.0,female,torso
+460,2459,HAM_0004257,ISIC_0025452,vasc,consensus,55.0,female,torso
+461,2460,HAM_0003829,ISIC_0026349,vasc,consensus,60.0,female,torso
+462,2461,HAM_0005560,ISIC_0027269,vasc,consensus,60.0,female,torso
+463,3326,HAM_0002276,ISIC_0025366,bkl,consensus,50.0,female,torso
+464,7100,HAM_0006159,ISIC_0028977,bkl,consensus,50.0,female,upper limbs
+465,9477,HAM_0006353,ISIC_0033164,nv,consensus,40.0,female,lower limbs
+466,9478,HAM_0004392,ISIC_0033395,nv,consensus,20.0,female,lower limbs
+467,9479,HAM_0004392,ISIC_0033355,nv,consensus,20.0,female,lower limbs
+468,9480,HAM_0004392,ISIC_0033095,nv,consensus,20.0,female,lower limbs
+469,9481,HAM_0002876,ISIC_0033082,nv,consensus,25.0,male,torso
+470,9482,HAM_0002876,ISIC_0034098,nv,consensus,25.0,male,torso
+471,9483,HAM_0007478,ISIC_0033040,nv,consensus,30.0,male,back
+472,9484,HAM_0002712,ISIC_0034238,nv,consensus,30.0,male,back
+473,9485,HAM_0002413,ISIC_0032543,nv,consensus,30.0,male,back
+474,9486,HAM_0001490,ISIC_0033176,nv,consensus,30.0,male,back
+475,9487,HAM_0005717,ISIC_0032658,nv,consensus,30.0,male,back
+476,9488,HAM_0004572,ISIC_0032868,nv,consensus,30.0,male,back
+477,9489,HAM_0001834,ISIC_0032631,nv,consensus,30.0,male,back
+478,9490,HAM_0003945,ISIC_0032528,nv,consensus,30.0,male,back
+479,9491,HAM_0002569,ISIC_0034018,nv,consensus,30.0,male,back
+480,9492,HAM_0000007,ISIC_0033879,nv,consensus,30.0,male,back
+481,9493,HAM_0005062,ISIC_0033211,nv,consensus,70.0,female,back
+482,9494,HAM_0005062,ISIC_0033617,nv,consensus,70.0,female,back
+483,9495,HAM_0005062,ISIC_0033889,nv,consensus,70.0,female,back
+484,9496,HAM_0003968,ISIC_0033495,nv,consensus,35.0,female,back
+485,9497,HAM_0003968,ISIC_0033161,nv,consensus,35.0,female,back
+486,9498,HAM_0003968,ISIC_0032796,nv,consensus,35.0,female,back
+487,9499,HAM_0004165,ISIC_0033346,nv,consensus,75.0,male,back
+488,9500,HAM_0004165,ISIC_0034219,nv,consensus,75.0,male,back
+489,9501,HAM_0004071,ISIC_0033098,nv,consensus,45.0,male,torso
+490,9502,HAM_0004071,ISIC_0032607,nv,consensus,45.0,male,torso
+491,9503,HAM_0003777,ISIC_0033584,nv,consensus,30.0,female,back
+492,9504,HAM_0003777,ISIC_0033118,nv,consensus,30.0,female,back
+493,9505,HAM_0002755,ISIC_0032523,nv,consensus,65.0,male,torso
+494,9506,HAM_0002755,ISIC_0033159,nv,consensus,65.0,male,torso
+495,9507,HAM_0001613,ISIC_0033542,nv,consensus,65.0,male,torso
+496,9508,HAM_0001613,ISIC_0032748,nv,consensus,65.0,male,torso
+497,9509,HAM_0004705,ISIC_0034260,nv,consensus,65.0,male,torso
+498,9510,HAM_0005059,ISIC_0034027,nv,consensus,70.0,male,upper limbs
+499,9511,HAM_0002724,ISIC_0032580,nv,consensus,70.0,male,upper limbs
+500,9512,HAM_0002724,ISIC_0033692,nv,consensus,70.0,male,upper limbs
+501,9513,HAM_0002074,ISIC_0032575,nv,consensus,40.0,female,head
+502,9514,HAM_0002074,ISIC_0032793,nv,consensus,40.0,female,head
+503,9515,HAM_0005115,ISIC_0033766,nv,consensus,35.0,male,upper limbs
+504,9516,HAM_0005115,ISIC_0033008,nv,consensus,35.0,male,upper limbs
+505,9517,HAM_0000181,ISIC_0033543,nv,consensus,45.0,male,torso
+506,9518,HAM_0000181,ISIC_0034185,nv,consensus,45.0,male,torso
+507,9519,HAM_0005353,ISIC_0033842,nv,consensus,30.0,male,back
+508,9520,HAM_0005353,ISIC_0032923,nv,consensus,30.0,male,back
+509,9521,HAM_0004016,ISIC_0032935,nv,consensus,30.0,male,back
+510,9522,HAM_0005689,ISIC_0034229,nv,consensus,20.0,male,back
+511,9523,HAM_0005689,ISIC_0028066,nv,consensus,20.0,male,back
+512,9524,HAM_0005308,ISIC_0032828,nv,consensus,20.0,male,back
+513,9525,HAM_0000650,ISIC_0033464,nv,consensus,20.0,male,back
+514,9526,HAM_0004346,ISIC_0033577,nv,consensus,40.0,female,unknown
+515,9527,HAM_0004348,ISIC_0033895,nv,consensus,40.0,female,unknown
+516,9528,HAM_0004344,ISIC_0032678,nv,consensus,40.0,female,unknown
+517,9529,HAM_0004350,ISIC_0033970,nv,consensus,40.0,female,unknown
+518,9530,HAM_0004349,ISIC_0033896,nv,consensus,40.0,female,unknown
+519,9531,HAM_0004352,ISIC_0034250,nv,consensus,40.0,female,unknown
+520,9532,HAM_0004347,ISIC_0033690,nv,consensus,40.0,female,unknown
+521,9533,HAM_0004351,ISIC_0034193,nv,consensus,40.0,female,unknown
+522,9534,HAM_0004345,ISIC_0033208,nv,consensus,40.0,female,unknown
+523,9535,HAM_0003809,ISIC_0032402,nv,consensus,40.0,male,unknown
+524,9536,HAM_0003810,ISIC_0034309,nv,consensus,40.0,male,unknown
+525,9537,HAM_0003811,ISIC_0032900,nv,consensus,40.0,male,unknown
+526,9538,HAM_0003812,ISIC_0033898,nv,consensus,40.0,male,unknown
+527,9539,HAM_0003813,ISIC_0033173,nv,consensus,40.0,male,unknown
+528,9540,HAM_0003814,ISIC_0032647,nv,consensus,40.0,male,unknown
+529,9541,HAM_0003815,ISIC_0024715,nv,consensus,40.0,male,unknown
+530,9542,HAM_0003816,ISIC_0029152,nv,consensus,40.0,male,unknown
+531,9543,HAM_0003817,ISIC_0032800,nv,consensus,40.0,male,unknown
+532,9544,HAM_0003818,ISIC_0033622,nv,consensus,40.0,male,unknown
+533,9545,HAM_0003819,ISIC_0027689,nv,consensus,40.0,male,unknown
+534,9546,HAM_0003807,ISIC_0032655,bkl,consensus,40.0,male,unknown
+535,9547,HAM_0006233,ISIC_0033290,nv,consensus,60.0,male,unknown
+536,9548,HAM_0006237,ISIC_0034072,nv,consensus,60.0,male,unknown
+537,9549,HAM_0006239,ISIC_0034177,nv,consensus,60.0,male,unknown
+538,9550,HAM_0006235,ISIC_0033681,nv,consensus,60.0,male,unknown
+539,9551,HAM_0006236,ISIC_0033741,nv,consensus,60.0,male,unknown
+540,9552,HAM_0006234,ISIC_0033341,nv,consensus,60.0,male,unknown
+541,9553,HAM_0006231,ISIC_0032849,nv,consensus,60.0,male,unknown
+542,9554,HAM_0006232,ISIC_0033043,nv,consensus,60.0,male,unknown
+543,9555,HAM_0006230,ISIC_0032632,nv,consensus,60.0,male,unknown
+544,9556,HAM_0004215,ISIC_0034302,nv,consensus,40.0,female,unknown
+545,9557,HAM_0004185,ISIC_0032635,nv,consensus,40.0,female,unknown
+546,9558,HAM_0004212,ISIC_0034114,nv,consensus,40.0,female,unknown
+547,9559,HAM_0004191,ISIC_0032562,nv,consensus,40.0,female,unknown
+548,9560,HAM_0004206,ISIC_0033826,nv,consensus,40.0,female,unknown
+549,9561,HAM_0004196,ISIC_0033421,nv,consensus,40.0,female,unknown
+550,9562,HAM_0004201,ISIC_0033602,nv,consensus,40.0,female,unknown
+551,9563,HAM_0004214,ISIC_0034248,nv,consensus,40.0,female,unknown
+552,9564,HAM_0004197,ISIC_0033467,nv,consensus,40.0,female,unknown
+553,9565,HAM_0004205,ISIC_0033797,nv,consensus,40.0,female,unknown
+554,9566,HAM_0004204,ISIC_0033772,nv,consensus,40.0,female,unknown
+555,9567,HAM_0004190,ISIC_0033039,nv,consensus,40.0,female,unknown
+556,9568,HAM_0004188,ISIC_0032996,nv,consensus,40.0,female,unknown
+557,9569,HAM_0004182,ISIC_0032591,nv,consensus,40.0,female,unknown
+558,9570,HAM_0004213,ISIC_0034228,nv,consensus,40.0,female,unknown
+559,9571,HAM_0004199,ISIC_0033556,nv,consensus,40.0,female,unknown
+560,9572,HAM_0004208,ISIC_0033892,nv,consensus,40.0,female,unknown
+561,9573,HAM_0004181,ISIC_0032571,nv,consensus,40.0,female,unknown
+562,9574,HAM_0004194,ISIC_0033101,nv,consensus,40.0,female,unknown
+563,9575,HAM_0004202,ISIC_0033623,nv,consensus,40.0,female,unknown
+564,9576,HAM_0004209,ISIC_0034075,nv,consensus,40.0,female,unknown
+565,9577,HAM_0004183,ISIC_0032606,nv,consensus,40.0,female,unknown
+566,9578,HAM_0004192,ISIC_0033066,nv,consensus,40.0,female,unknown
+567,9579,HAM_0004195,ISIC_0033383,nv,consensus,40.0,female,unknown
+568,9580,HAM_0004207,ISIC_0033858,nv,consensus,40.0,female,unknown
+569,9581,HAM_0004210,ISIC_0034081,nv,consensus,40.0,female,unknown
+570,9582,HAM_0004193,ISIC_0033072,nv,consensus,40.0,female,unknown
+571,9583,HAM_0004186,ISIC_0032759,nv,consensus,40.0,female,unknown
+572,9584,HAM_0004203,ISIC_0033647,nv,consensus,40.0,female,unknown
+573,9585,HAM_0004184,ISIC_0032634,nv,consensus,40.0,female,unknown
+574,9586,HAM_0004187,ISIC_0032956,nv,consensus,40.0,female,unknown
+575,9587,HAM_0004198,ISIC_0033481,nv,consensus,40.0,female,unknown
+576,9588,HAM_0004211,ISIC_0034082,nv,consensus,40.0,female,unknown
+577,9589,HAM_0004200,ISIC_0033567,nv,consensus,40.0,female,unknown
+578,9590,HAM_0004216,ISIC_0034312,nv,consensus,40.0,female,unknown
+579,9591,HAM_0003236,ISIC_0033025,nv,consensus,30.0,female,upper limbs
+580,9592,HAM_0003236,ISIC_0033053,nv,consensus,30.0,female,upper limbs
+581,9593,HAM_0006766,ISIC_0033374,nv,consensus,,unknown,unknown
+582,9594,HAM_0004237,ISIC_0033877,nv,consensus,,unknown,unknown
+583,9595,HAM_0007460,ISIC_0032578,nv,consensus,,unknown,unknown
+584,9596,HAM_0000822,ISIC_0033841,nv,consensus,,unknown,unknown
+585,9597,HAM_0006644,ISIC_0033882,nv,consensus,,unknown,unknown
+586,9598,HAM_0004120,ISIC_0034266,nv,consensus,,unknown,unknown
+587,9599,HAM_0005257,ISIC_0033751,nv,consensus,,unknown,unknown
+588,9600,HAM_0001619,ISIC_0033065,nv,consensus,,unknown,unknown
+589,9601,HAM_0001147,ISIC_0033375,nv,consensus,,unknown,unknown
+590,9602,HAM_0004508,ISIC_0033628,nv,consensus,,unknown,unknown
+591,9603,HAM_0002037,ISIC_0033733,nv,consensus,,unknown,unknown
+592,9604,HAM_0007191,ISIC_0032738,nv,consensus,,unknown,unknown
+593,9605,HAM_0001000,ISIC_0033353,nv,consensus,,unknown,unknown
+594,9606,HAM_0000627,ISIC_0034019,nv,consensus,,unknown,unknown
+595,9607,HAM_0002164,ISIC_0032852,nv,consensus,,unknown,unknown
+596,9608,HAM_0000421,ISIC_0034080,nv,consensus,,unknown,unknown
+597,9609,HAM_0003561,ISIC_0034154,nv,consensus,,unknown,unknown
+598,9610,HAM_0004430,ISIC_0032789,nv,consensus,,unknown,unknown
+599,9611,HAM_0007301,ISIC_0033417,nv,consensus,,unknown,unknown
+600,9612,HAM_0003935,ISIC_0033782,nv,consensus,,unknown,unknown
+601,9613,HAM_0001118,ISIC_0033332,nv,consensus,,unknown,unknown
+602,9614,HAM_0007172,ISIC_0034130,nv,consensus,,unknown,unknown
+603,9615,HAM_0003696,ISIC_0032945,nv,consensus,,unknown,unknown
+604,9616,HAM_0005439,ISIC_0033597,nv,consensus,,unknown,unknown
+605,9617,HAM_0002282,ISIC_0034045,nv,consensus,,unknown,unknown
+606,9618,HAM_0001139,ISIC_0033028,nv,consensus,,unknown,unknown
+607,9619,HAM_0003998,ISIC_0033809,nv,consensus,,unknown,unknown
+608,9620,HAM_0003034,ISIC_0033187,nv,consensus,,unknown,unknown
+609,9621,HAM_0001366,ISIC_0032814,nv,consensus,,unknown,unknown
+610,9622,HAM_0004670,ISIC_0033190,nv,consensus,,unknown,unknown
+611,9623,HAM_0003017,ISIC_0033535,nv,consensus,,unknown,unknown
+612,9624,HAM_0005156,ISIC_0033330,nv,consensus,,unknown,unknown
+613,9625,HAM_0001209,ISIC_0033064,nv,consensus,,unknown,unknown
+614,9626,HAM_0002402,ISIC_0033515,nv,consensus,,unknown,unknown
+615,9627,HAM_0001433,ISIC_0033735,nv,consensus,,unknown,unknown
+616,9628,HAM_0006643,ISIC_0033982,nv,consensus,,unknown,unknown
+617,9629,HAM_0003300,ISIC_0034195,nv,consensus,,unknown,unknown
+618,9630,HAM_0003807,ISIC_0033620,bkl,consensus,40.0,male,unknown
+619,9631,HAM_0003808,ISIC_0034040,bkl,consensus,40.0,male,unknown
+620,9632,HAM_0007069,ISIC_0029355,nv,consensus,50.0,female,lower limbs
+621,9633,HAM_0006720,ISIC_0024725,nv,consensus,0.0,female,lower limbs
+622,9634,HAM_0006720,ISIC_0031259,nv,consensus,0.0,female,lower limbs
+623,9635,HAM_0004370,ISIC_0027138,nv,consensus,10.0,male,unknown
+624,9636,HAM_0004370,ISIC_0024757,nv,consensus,10.0,male,unknown
+625,9637,HAM_0003642,ISIC_0027492,nv,consensus,50.0,female,torso
+626,9638,HAM_0003642,ISIC_0027528,nv,consensus,50.0,female,torso
+627,9639,HAM_0000057,ISIC_0026391,nv,consensus,30.0,male,unknown
+628,9640,HAM_0000057,ISIC_0025122,nv,consensus,30.0,male,unknown
+629,9641,HAM_0006861,ISIC_0031216,nv,consensus,50.0,female,back
+630,9642,HAM_0006861,ISIC_0031769,nv,consensus,50.0,female,back
+631,9643,HAM_0007122,ISIC_0025816,nv,consensus,75.0,male,lower limbs
+632,9644,HAM_0007069,ISIC_0031209,nv,consensus,50.0,female,lower limbs
+633,9645,HAM_0005696,ISIC_0028014,nv,consensus,30.0,male,back
+634,9646,HAM_0005696,ISIC_0025499,nv,consensus,30.0,male,back
+635,9647,HAM_0005522,ISIC_0032379,nv,consensus,65.0,male,upper limbs
+636,9648,HAM_0005522,ISIC_0029368,nv,consensus,65.0,male,upper limbs
+637,9649,HAM_0005347,ISIC_0025653,nv,consensus,55.0,female,torso
+638,9650,HAM_0005347,ISIC_0027265,nv,consensus,55.0,female,torso
+639,9651,HAM_0002566,ISIC_0024437,nv,consensus,55.0,female,torso
+640,9652,HAM_0002566,ISIC_0031105,nv,consensus,55.0,female,torso
+641,9653,HAM_0001393,ISIC_0027418,nv,consensus,55.0,female,back
+642,9654,HAM_0001393,ISIC_0029030,nv,consensus,55.0,female,back
+643,9655,HAM_0002408,ISIC_0031359,nv,consensus,65.0,male,head
+644,9656,HAM_0002408,ISIC_0031454,nv,consensus,65.0,male,head
+645,9657,HAM_0001956,ISIC_0024955,nv,consensus,30.0,female,back
+646,9658,HAM_0001956,ISIC_0030038,nv,consensus,30.0,female,back
+647,9659,HAM_0000258,ISIC_0030909,nv,consensus,30.0,female,head
+648,9660,HAM_0000258,ISIC_0031323,nv,consensus,30.0,female,head
+649,9661,HAM_0004742,ISIC_0031791,nv,consensus,50.0,female,back
+650,9662,HAM_0004742,ISIC_0028338,nv,consensus,50.0,female,back
+651,9663,HAM_0001633,ISIC_0028618,nv,consensus,70.0,male,unknown
+652,9664,HAM_0001633,ISIC_0031488,nv,consensus,70.0,male,unknown
+653,9665,HAM_0005091,ISIC_0027345,nv,consensus,50.0,female,torso
+654,9666,HAM_0005091,ISIC_0031148,nv,consensus,50.0,female,torso
+655,9667,HAM_0005018,ISIC_0028008,nv,consensus,55.0,male,upper limbs
+656,9668,HAM_0005018,ISIC_0026440,nv,consensus,55.0,male,upper limbs
+657,9669,HAM_0007122,ISIC_0028399,nv,consensus,75.0,male,lower limbs
+658,9670,HAM_0001410,ISIC_0029143,nv,consensus,15.0,female,torso
+659,9671,HAM_0003965,ISIC_0025652,nv,consensus,15.0,female,back
+660,9672,HAM_0002554,ISIC_0028585,nv,consensus,30.0,male,back
+661,9673,HAM_0004857,ISIC_0029038,nv,consensus,70.0,male,lower limbs
+662,9674,HAM_0004857,ISIC_0031222,nv,consensus,70.0,male,lower limbs
+663,9675,HAM_0007609,ISIC_0026326,nv,consensus,30.0,male,head
+664,9676,HAM_0002554,ISIC_0032102,nv,consensus,30.0,male,back
+665,9677,HAM_0006283,ISIC_0032273,nv,consensus,20.0,male,torso
+666,9678,HAM_0003384,ISIC_0031299,nv,consensus,55.0,female,torso
+667,9679,HAM_0003384,ISIC_0028438,nv,consensus,55.0,female,torso
+668,9680,HAM_0001410,ISIC_0024830,nv,consensus,15.0,female,torso
+669,9681,HAM_0003965,ISIC_0028380,nv,consensus,15.0,female,back
+670,9682,HAM_0006283,ISIC_0027924,nv,consensus,20.0,male,torso
+671,9683,HAM_0000102,ISIC_0031547,nv,consensus,20.0,male,back
+672,9684,HAM_0000102,ISIC_0032221,nv,consensus,20.0,male,back
+673,9685,HAM_0005314,ISIC_0030693,nv,consensus,40.0,male,head
+674,9686,HAM_0003322,ISIC_0031649,nv,consensus,50.0,female,head

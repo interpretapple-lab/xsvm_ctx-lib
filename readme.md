@@ -14,6 +14,29 @@ Additionally, it is necessary to have the following packages installed:
 - [OpenCV](https://opencv.org) (```python3 -m pip install opencv-python```)
 - [Joblib](https://joblib.readthedocs.io) package (```python3 -m pip install joblib```).
 
+## Examples
+To run an example, say *bookings.py*, you may use the following commands:
+
+```
+cd /path/to/xsvm_ctx-lib/examples/
+python3 bookings.py
+```
+
+## Datasets
+Parts of the following datasets are used in several examples that illustrate the use of *xSVM_ctx-Lib*.
+
+- [The HAM10000 dataset, images of common pigmented skin lesions](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) (This dataset was preprocessed in advanced due to its size.)
+- [EMG Data for Gestures](https://archive.ics.uci.edu/dataset/481/emg+data+for+gestures)
+- [Hotel booking demand dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
+
+Examples
+To run an example, say bookings.py, you may use the following commands:
+
+```
+cd /path/to/xsvm_ctx-lib/examples/
+python3 bookings.py
+```
+
 ## Technical Information
 The mathematical foundation of *xSVM_ctx-Lib* can be found in 
 
