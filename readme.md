@@ -2,7 +2,7 @@
 *xSVM_ctx-Lib* is an open source library that implements algorithms proposed to create a parallel arrangement of Support Vector Machines (SVM) by contexts, where each SVM is trained in a specific context identified during training.
 
 ## Requirements
-*xSVM_ctx-Lib* requires Python 3.8+. This library implements the [*XSVMC-Lib*](https://github.com/interpretapple-lab/xsvmc-lib) library for making contrasting explanations. It is necessary to it installed in order to use this library. Moving the *xsvmlib* directory from *XSVMC-Lib* inside this directory (*xSVM_ctx-Lib*) will count as installed. 
+*xSVM_ctx-Lib* requires Python 3.8+. This library implements the [*XSVMC-Lib*](https://github.com/interpretapple-lab/xsvmc-lib) library for making contrasting explanations. It is necessary to install *XSVMC-Lib* in order to use this library. Moving the *xsvmlib* directory from *XSVMC-Lib* inside this directory (*xSVM_ctx-Lib*) will count as installed. 
 
 Additionally, it is necessary to have the following packages installed:
 
