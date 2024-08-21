@@ -25,7 +25,7 @@ python3 bookings.py
 ## Datasets
 Parts of the following datasets are used in several examples that illustrate the use of *xSVM_ctx-Lib*.
 
-- [The HAM10000 dataset, images of common pigmented skin lesions](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) (This dataset was preprocessed in advanced due to its size.)
+- [The HAM10000 dataset, images of common pigmented skin lesions](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) (This dataset was preprocessed in advance due to its size.)
 - [EMG Data for Gestures](https://archive.ics.uci.edu/dataset/481/emg+data+for+gestures)
 - [Hotel booking demand dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
 
