@@ -66,11 +66,7 @@ contextualized_y_train = {"H1": y_train, "H2": y_train2}
 contextualized_X_test = {"H1": X_test, "H2": X_test2}
 contextualized_y_test = {"H1": y_test, "H2": y_test2}
 
-w_0 = 44220/(44220 + 75166)
-w_1 = 1 - w_0
-weights = {0: w_0, 1: w_1}
-
-clf = contextualized_xSVMC(kernel='rbf', C=100, gamma=3, class_weight=weights)
+clf = contextualized_xSVMC(kernel='rbf', C=100, gamma=3, class_weight='balanced')
 
 clf.fit(contextualized_X_train, contextualized_y_train, n_jobs=2)
 

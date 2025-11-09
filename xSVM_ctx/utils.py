@@ -6,14 +6,16 @@ from sklearn.model_selection import train_test_split
 import itertools
 
 
-def load_images_context_and_labels(directory, metadata_file, image_column="image_id", context_column="context"):
+def load_images_context_and_labels(directory, metadata_file, image_column="image_id", label_column="label", context_column="context", has_extension=False):
     """ Loads images, context and labels from a directory and a metadata file.
 
     Parameters:
         directory: Directory where the images are stored.
         metadata_file: Path to the metadata file.
         image_column: Name of the column that contains the image ids.
+        label_column:  Name of the column that contains the labels.
         context_column: Name of the column that contains the context of the images.
+        has_extension: Whether the image_id has a file extension.
 
     Returns:
         images: List of images.
@@ -22,11 +24,14 @@ def load_images_context_and_labels(directory, metadata_file, image_column="image
     """
     metadata = pd.read_csv(metadata_file)
     image_ids = metadata[image_column]
-    image_paths = [os.path.join(directory, f"{image_id}.jpg") for image_id in image_ids]
+    if has_extension:
+        image_paths = [os.path.join(directory, f"{image_id}") for image_id in image_ids]
+    else:
+        image_paths = [os.path.join(directory, f"{image_id}.jpg") for image_id in image_ids]
     images = [cv2.imread(path) for path in image_paths]
     valid_indices = [i for i, image in enumerate(images) if image is not None]
     images = [images[i] for i in valid_indices]
-    labels = [metadata['dx'][i] for i in valid_indices]
+    labels = [metadata[label_column][i] for i in valid_indices]
     contexts = [metadata[context_column][i] for i in valid_indices]
     return images, labels, contexts
 

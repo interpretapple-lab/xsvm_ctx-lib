@@ -23,9 +23,9 @@ directory = 'data/Skin_conditions/Images/'
 metadata_file = 'data/Skin_conditions/processed_metadata.csv'
 output_dir = './output/'
 
-images, labels, context = load_images_context_and_labels(directory, metadata_file, context_column="localization")
+images, labels, context = load_images_context_and_labels(directory, metadata_file, label_column="dx", context_column="localization")
 
-X_train, y_train, context_train, X_test, y_test, context_test = train_test_split_with_context(images, labels, context)
+X_train, y_train, context_train, X_test, y_test, context_test = train_test_split_with_context(images, labels, context, test_size=0.3)
 
 flattened_X_train = [image.flatten() for image in X_train]
 flattened_X_test = [image.flatten() for image in X_test]
@@ -36,7 +36,7 @@ X_test_normalized = preprocessing.normalize(flattened_X_test, norm='l2')
 contextualized_X_train = group_data_by_context(X_train_normalized, context_train)
 contextualized_y_train = group_data_by_context(y_train, context_train)
 
-clf = contextualized_xSVMC(kernel='rbf', C=100, gamma=20, class_weight='balanced')
+clf = contextualized_xSVMC(kernel='rbf', C=40, gamma=10, class_weight='balanced')
 
 clf.fit(contextualized_X_train, contextualized_y_train, verbose=50, n_jobs=6)
 
