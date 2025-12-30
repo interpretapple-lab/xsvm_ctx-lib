@@ -13,6 +13,8 @@ Additionally, it is necessary to have the following packages installed:
 - [SciKit-Learn](https://scikit-learn.org) package (```python3 -m pip install scikit-learn```).
 - [OpenCV](https://opencv.org) (```python3 -m pip install opencv-python```)
 - [Joblib](https://joblib.readthedocs.io) package (```python3 -m pip install joblib```).
+- [SciPy](https://scipy.org) package (```python3 -m pip install scipy```)
+- [adjustText](https://adjusttext.readthedocs.io/en/latest/) package (```python3 -m pip install adjustText```)
 
 ## Examples
 To run an example, say *bookings.py*, you may use the following commands:
